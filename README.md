@@ -1,4 +1,4 @@
-# sistemi-operativi
+# Sistemi Operativi
 
 Esercizi e laboratori del corso di Algoritmi e Strutture Dati.
 
